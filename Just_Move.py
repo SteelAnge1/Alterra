@@ -81,7 +81,7 @@ while game:
             finish = True
             
     else:
-        finish=False
+        finish = False
         time.delay(300)
 
     display.update()
